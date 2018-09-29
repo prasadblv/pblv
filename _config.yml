@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Prasad B L V"
   avatar           : "profile.png"
-  bio              : "Software Developer"
-  location         : #"Location"
+  bio              : "Software Developer at HPE India Software Operations"
+  location         : "Bangalore"
   employer         : "Hewlett Packard Enterprise"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "prasadblv8784@gmail.com"
@@ -98,14 +98,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/prasadblv/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@PrasadBLV"
   vine             :
   weibo            :
   xing             :
