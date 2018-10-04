@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-About 
-======
+
 I am a Software Developer working at Hewlett Packard Enterprise India Software Operations, Bengaluru, India.
 I have been working In Hewlett Packard Enterprise for past 9 years.    
 
