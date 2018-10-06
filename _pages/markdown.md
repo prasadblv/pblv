@@ -15,8 +15,8 @@ redirect_from:
 
 ## Java Programming
 
-[Effective Java 3rd Edition](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=sr_1_1?ie=UTF8&qid=1538795051&sr=8-1&keywords=effective+java+3rd+edition&dpID=51IcaSKfPAL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
-- Joshua Bloch 
+[Effective Java 3rd Edition](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=sr_1_1?ie=UTF8&qid=1538795561&sr=8-1&keywords=Effective+Java) - Joshua Bloch 
+ 
 
 ## Shell Scripting
 
