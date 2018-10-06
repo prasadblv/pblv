@@ -13,5 +13,5 @@ redirect_from:
 I am a Software Developer working at Hewlett Packard Enterprise India Software Operations, Bangalore, India.
 I have been working In Hewlett Packard Enterprise for past 9 years.    
 Exposure to Java 8, Spring, Micro-Services, Javascript, HTML5, Postgres, Shell Scripting, Docker and Kubernetes.
-Worked on development of API Gateway, Light weight Micro-Service Based composition engine. 
+Worked on development of API Gateway, Light weight Micro-Service based composition engine. 
 The above mentioned products were used for realization of Telco and Internet of Things use-cases.
