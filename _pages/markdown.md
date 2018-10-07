@@ -22,3 +22,12 @@ redirect_from:
 ## Shell Scripting
 
 [The AWK Programming Language](http://www.amazon.com/gp/product/020107981X?ie=UTF8&tag=deirdrestraug-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=020107981X) - Alfred V. Aho, Brian W. Kernighan, Peter J. Weinberger (Addison Wesley, 1988)
+
+## Java Performance
+
+[Java Performance-The Definitive Guide ](http://www.amazon.com/gp/product/1449358454?ie=UTF8&tag=deirdrestraug-20&linkCode=as2&camp=1789&creative=390957) - Scott Oaks (O'Reilly, 2014)
+
+
+[Java Performance](http://www.amazon.com/gp/product/0137142528?ie=UTF8&tag=deirdrestraug-20&linkCode=as2&camp=1789&creative=390957) - Charlie Hunt, Binu John (Addison-Wesley, 2011)
+
+
